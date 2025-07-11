@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <>
         {/* Hero Section */}
-      <div className="bg-green-600 text-white py-20 px-4">
+      <div id="home" className="bg-green-600 text-white py-20 px-4">
         <div
           className="max-w-6xl mx-auto flex flex-col md:flex-row items-center"
         >

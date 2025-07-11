@@ -4,7 +4,7 @@ const Features = () => {
   return (
     <>
         {/* Features Section */}
-      <div className="py-16 px-4 bg-white">
+      <div id="services" className="py-16 px-4 bg-white">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-800">
             Our Features
