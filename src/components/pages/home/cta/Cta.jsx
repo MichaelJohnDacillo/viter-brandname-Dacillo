@@ -14,7 +14,7 @@ const Cta = () => {
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <button
-              className="bg-white text-green-600 py-3 px-8 rounded-lg font-bold hover:bg-gray-100 transition duration-300"
+              className="bg-white text-green-600 py-3 px-8 git add .rounded-lg font-bold hover:bg-gray-100 transition duration-300"
             >
               Sign Up Free
             </button>
